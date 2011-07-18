@@ -1,0 +1,1 @@
+if(e=document.getElementById('myplusone'))e.parentNode.removeChild(e);
