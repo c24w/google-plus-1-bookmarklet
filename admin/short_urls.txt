@@ -1,6 +1,6 @@
 small - http://goo.gl/vObZK
 small_no_count - http://goo.gl/WLzPo
-small_(close_button) - http://goo.gl/nMmuq
+small_(close_button) - http://goo.gl/kpQEV
 
 medium - http://goo.gl/UTsQ0
 medium_no_count - http://goo.gl/pnvs9
@@ -12,3 +12,6 @@ standard_(close_button) - http://goo.gl/nrlgG
 
 tall - http://goo.gl/ihS0K
 tall_(close_button) - http://goo.gl/79XHY
+
+
+remove_from_dom - http://goo.gl/wDFRI
