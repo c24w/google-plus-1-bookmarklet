@@ -1,4 +1,4 @@
-javascript:
+javascript: // can't iframe goo.gl links :(
 
 var urls = new Array(
 	"http://goo.gl/vObZK",
