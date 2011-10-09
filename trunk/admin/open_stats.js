@@ -28,7 +28,7 @@ document.write(
 		
 		/*
 		'<span style="font-family:'courier new',monospoace;font-size:10pt">'+
-			document.location.href+'<br>'+
+			window.location.href+'<br>'+
 			document.getElementById('long_url').innerHTML+'<br>'+
 			document.getElementById('clicks').firstChild.innerHTML+
 		'</span>'+
