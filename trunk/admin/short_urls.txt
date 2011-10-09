@@ -22,3 +22,5 @@ tall_(close_button) - http://goo.gl/79XHY
 remove_from_dom - http://goo.gl/wDFRI
 
 test_bookmarklets - http://goo.gl/UUKfT
+
+show_survey - http://goo.gl/pxb9V
