@@ -1,33 +1,46 @@
 <HTML>
-
 <HEAD>
-	<script type="text/javascript">
-		a = [
-		['github','http://goo.gl/j2zQR'],
-		['google code','http://goo.gl/DTOqU'],
-		['small','http://goo.gl/vObZK'],
-		['small_no_count','http://goo.gl/WLzPo'],
-		['small_(close_button)','http://goo.gl/kpQEV'],
-		['medium','http://goo.gl/UTsQ0'],
-		['medium_no_count','http://goo.gl/pnvs9'],
-		['medium_(close_button)','http://goo.gl/mmCrH'],
-		['standard','http://goo.gl/R3Ihk'],
-		['standard_no_count','http://goo.gl/eMK2p'],
-		['standard_(close_button)','http://goo.gl/nrlgG'],
-		['tall','http://goo.gl/ihS0K'],
-		['tall_(close_button)','http://goo.gl/79XHY'],
-		['remove_from_dom','http://goo.gl/wDFRI'],
-		['test_bookmarklets','http://goo.gl/UUKfT'],
-		['bookmarklets demos','http://goo.gl/sjVfa']
-		];
-		function f(){
-			b=document.body;
-			for(i in a) b.innerHTML += '<a href="'+a[i][1]+'+#all_time" style="text-decoration:none;color:#0000FF;margin-left:50px;" target=_blank">'+a[i][0]+'</a><br>';
-			b.appendChild(document.createElement('hr'));
-		}
-	</script>
+<style type="text/css">
+a{text-decoration:none;color:#0000FF;margin-left:50px}
+</style>
 </HEAD>
-
-<BODY onload="f()" style="font-family:sans-serif;line-height:2;"><hr><b>Stats</b><br><hr></BODY>
-
+<BODY style="font-family:sans-serif;line-height:2;margin:30px">
+	<script type="text/javascript">
+		document.write('<strong>Stats</strong><hr>');
+		document.write('<em>https</em>');
+		l=[
+		['small','https://bit.ly/mZRRLN'],
+		['small_no_count','https://bit.ly/q972cf'],
+		['small_(close_button)','https://bit.ly/p2YD0V'],
+		['medium','https://bit.ly/pw7MzI'],
+		['medium_no_count','https://bit.ly/nFa2Xt'],
+		['medium_(close_button)','https://bit.ly/pvXjgf'],
+		['standard','https://bit.ly/remDCI'],
+		['standard_no_count','https://bit.ly/oN4Hhh'],
+		['standard_(close_button)','https://bit.ly/omOVHV'],
+		['tall','https://bit.ly/oBfJKL'],
+		['tall_(close_button)','https://bit.ly/n7MkH0']
+		];
+		for(i in l)document.write('<br><a href="'+l[i][1]+'+#total" target=_blank">'+l[i][0]+'</a>');
+		document.write('<br><em>http</em>');
+		l=[
+		['github','j2zQR'],
+		['google code','DTOqU'],
+		['small','vObZK'],
+		['small_no_count','WLzPo'],
+		['small_(close_button)','kpQEV'],
+		['medium','UTsQ0'],
+		['medium_no_count','pnvs9'],
+		['medium_(close_button)','mmCrH'],
+		['standard','R3Ihk'],
+		['standard_no_count','eMK2p'],
+		['standard_(close_button)','nrlgG'],
+		['tall','ihS0K'],
+		['tall_(close_button)','79XHY'],
+		['test_bookmarklets','UUKfT'],
+		['plus1.atspace.co.uk/bookmarklets.htm','sjVfa']
+		];
+		for(i in l)document.write('<br><a href="http://goo.gl/'+l[i][1]+'+#all_time" target=_blank">'+l[i][0]+'</a>');
+	</script>
+</BODY>
 </HTML>
