@@ -3,6 +3,7 @@ google code - http://goo.gl/DTOqU
 bookmarklets demos (external) - http://goo.gl/sjVfa
 
 
+---------------  HTTP  ---------------
 small - http://goo.gl/vObZK
 small_no_count - http://goo.gl/WLzPo
 small_(close_button) - http://goo.gl/kpQEV
@@ -18,9 +19,31 @@ standard_(close_button) - http://goo.gl/nrlgG
 tall - http://goo.gl/ihS0K
 tall_(close_button) - http://goo.gl/79XHY
 
-
 remove_from_dom - http://goo.gl/wDFRI
 
 test_bookmarklets - http://goo.gl/UUKfT
 
-show_survey - http://goo.gl/pxb9V
+show_surveys - http://goo.gl/pxb9V
+
+
+---------------  HTTPS  ---------------
+small - http://goo.gl/oO4rP
+small_no_count - http://goo.gl/IXWN8
+small_(close_button) - http://goo.gl/nJ5CH
+
+medium - http://goo.gl/qKE9K
+medium_no_count - http://goo.gl/i6LsH
+medium_(close_button) - http://goo.gl/DxRfK
+
+standard - http://goo.gl/lxBXB
+standard_no_count - http://goo.gl/HIHZ4
+standard_(close_button) - http://goo.gl/G3P3e
+
+tall - http://goo.gl/hJY0G
+tall_(close_button) - http://goo.gl/kJLmH
+
+remove_from_dom - 
+
+test_bookmarklets - 
+
+show_surveys - http://goo.gl/R9U9Y
