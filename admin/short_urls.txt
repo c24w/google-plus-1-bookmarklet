@@ -27,6 +27,23 @@ show_surveys - http://goo.gl/pxb9V
 
 
 ---------------  HTTPS  ---------------
+small - https://bit.ly/mZRRLN
+small_no_count - https://bit.ly/q972cf
+small_(close_button) - https://bit.ly/p2YD0V
+
+medium - https://bit.ly/pw7MzI
+medium_no_count - https://bit.ly/nFa2Xt
+medium_(close_button) - https://bit.ly/pvXjgf
+
+standard - https://bit.ly/remDCI
+standard_no_count - https://bit.ly/oN4Hhh
+standard_(close_button) - https://bit.ly/omOVHV
+
+tall - https://bit.ly/oBfJKL
+tall_(close_button) - https://bit.ly/n7MkH0
+
+
+---------------  HTTPS (goo.gl doesn't work with https)  ---------------
 small - http://goo.gl/oO4rP
 small_no_count - http://goo.gl/IXWN8
 small_(close_button) - http://goo.gl/nJ5CH
