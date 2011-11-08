@@ -1,13 +1,14 @@
 ==Bookmarklets==
 ----
 
-*Now includes sharing to your Google Plus Stream & uses SSL*
+*Now includes sharing to your Google Plus Stream & https connections.*
 
-Several variations available, as defined by the +1 button [http://code.google.com/apis/+1button/#button-sizes API].
+Usage: click bookmarklet once to show; click again to hide, or use the close button if you choose one of those variations.  Works best on your browser's bookmarks bar (if it has this feature).
 
-_*Note*_: click bookmarklet once to show; click again to hide, or use the close button if you choose one of those variations.  Works best on your browser's bookmarks bar (if it has this feature).
+Please send me feedback/suggestions/requests/issues using the _[http://code.google.com/p/google-plus-1-bookmarklet/issues/list isses]_ tab, above :)
 
-If the following table confuses you, please see [#Choosing_the_right_one_for_you choosing the right one for you].
+<br>
+*`<`shameless plug`>`*	[http://goo.gl/NgRjq Google Plus +1 any URL]	*`<`/shameless plug`>`*
 
 ||**Small**|| ||
 ||_default (with count)_||`javascript:s=document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://bit.ly/mZRRLN';void(0);`||
@@ -25,12 +26,7 @@ If the following table confuses you, please see [#Choosing_the_right_one_for_you
 ||_default (with count)_||`javascript:s=document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://bit.ly/oBfJKL';void(0);`||
 ||_default with close button_||`javascript:s=document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://bit.ly/n7MkH0';void(0);`||
 
-_*Please send me feedback/suggestions/requests/issues using the [http://code.google.com/p/google-plus-1-bookmarklet/issues/list isses] tab, above_* :)
-
-<br>
-*`<`shameless plug`>`*
-  Another useful +1 tool: [http://goo.gl/NgRjq Google Plus +1 any URL]
-*`<`/shameless plug`>`*
+If the table confuses you, please see [#Choosing_the_right_one_for_you choosing the right one for you]. Variations as per the +1 button [http://code.google.com/apis/+1button/#button-sizes API].
 
 <br>
 ===Whinges===
