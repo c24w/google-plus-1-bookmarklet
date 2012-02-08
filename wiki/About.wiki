@@ -9,7 +9,7 @@
 
 <td><p><font size="3">*Functionally*</font></p>
 <p>Whether bookmarklet utilities are stored as bookmarks or hyperlinks, they are designed to add one-click functionality to a browser or web page. <font size="1">(_[http://en.wikipedia.org/wiki/Bookmarklet Wikipedia]_)</font></p>
-<p>Provides functionality to *_+1 and share pages_* to your Google Plus stream on-the-fly, *_as you browse the web_*, regardless of the website you are on.</p></td>
+<p>*_+1 and share pages_* to your Google Plus stream on-the-fly, *_as you browse the web_*, regardless of the website you are on.</p></td>
 
 <td><p><font size="3">*Literally*</font></p>
 <p>A bookmarklet is unobtrusive `JavaScript` stored as the URL of a bookmark in a web browser or as a hyperlink on a web page. <font size="1">(_[http://en.wikipedia.org/wiki/Bookmarklet Wikipedia]_)</font></p>
