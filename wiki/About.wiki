@@ -1,0 +1,30 @@
+#summary About the bookmarklets
+
+= Introduction =
+
+Google Plus +1 & Share to Stream Bookmarklets.
+
+
+
+== What does it do? ==
+
+<table onload="alert('')" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td><p><font size="3">*Technical*</font></p></td> <td><p><font size="3">*Functional*</font></p></td>
+</tr>
+<tr>
+<td>a bookmarklet is unobtrusive `JavaScript` stored as the URL of a bookmark in a web browser or as a hyperlink on a web page.</td> <td>whether bookmarklet utilities are stored as bookmarks or hyperlinks, they are designed to add one-click functionality to a browser or web page.</td>
+</tr>
+</table>
+
+Clicking the bookmarklet
+
+Bookmarklet definitions in general:
+
+ =====Read more from _[http://en.wikipedia.org/wiki/Bookmarklet Wikipedia]_=====
+
+
+
+== Why do I need this? ==
+
+If you want to *+1* and *share* pages to your Google Plus stream on-the-fly, *as you browse the web*, regardless of the website you are on.
