@@ -1,0 +1,10 @@
+blue gradient
+
+background: rgb(38,150,237);
+background: -moz-linear-gradient(top, rgba(38,150,237,1) 0%, rgba(36,103,163,1) 50%, rgba(2,79,149,1) 50%, rgba(11,133,229,1) 99%);
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(38,150,237,1)), color-stop(50%,rgba(36,103,163,1)), color-stop(50%,rgba(2,79,149,1)), color-stop(99%,rgba(11,133,229,1)));
+background: -webkit-linear-gradient(top, rgba(38,150,237,1) 0%,rgba(36,103,163,1) 50%,rgba(2,79,149,1) 50%,rgba(11,133,229,1) 99%);
+background: -o-linear-gradient(top, rgba(38,150,237,1) 0%,rgba(36,103,163,1) 50%,rgba(2,79,149,1) 50%,rgba(11,133,229,1) 99%);
+background: -ms-linear-gradient(top, rgba(38,150,237,1) 0%,rgba(36,103,163,1) 50%,rgba(2,79,149,1) 50%,rgba(11,133,229,1) 99%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2696ed', endColorstr='#0b85e5',GradientType=0 );
+background: linear-gradient(top, rgba(38,150,237,1) 0%,rgba(36,103,163,1) 50%,rgba(2,79,149,1) 50%,rgba(11,133,229,1) 99%);
